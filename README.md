@@ -1,4 +1,6 @@
 # Sweet-Lift-Taxi-Time-Series-Predictions
+![image](https://user-images.githubusercontent.com/115895428/216846097-020107cb-8c1c-4a54-af89-4a47ed7e08b9.png)
+
 
 ## Skills Demonstrated
     Pandas
