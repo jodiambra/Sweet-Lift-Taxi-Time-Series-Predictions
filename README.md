@@ -21,4 +21,4 @@ Sweet Lift Taxi company has collected data on taxi orders at airports. Their aim
 Overall, we succeeded in providing a model for Sweet Lift Taxi to predict the number of orders of the next hour. The target metric for our model was an RMSE score under 48. Our final model was a voting regressor, with a final RMSE of 46.47 with the test data set. Therefore, Sweet Lift can accommodate drivers with a model that accurately predicts future number of orders.  
 
 
-## [Web Notebook](https://jodiambra.github.io/Sweet-Lift-Taxi-Time-Series-Predictions/)
+## [Sweet Lift](https://jodiambra.github.io/Sweet-Lift-Taxi-Time-Series-Predictions/)
